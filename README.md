@@ -52,7 +52,7 @@ langdetect
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting.git
+git clone https://github.com/Hemalatha-Sathriyasekar/AI-Predictive-Methods-for-Credit-underwriting.git
 cd AI-Predictive-Methods-for-Credit-underwriting
 ```
 
@@ -134,8 +134,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Contributors
 
 - **Bollapalli Anil Kumar** (Developer)
-- [GitHub Profile](https://github.com/Anilkumar322)
+- [GitHub Profile](https://github.com/dashboard)
 
 ## Feedback
 
-For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting/issues).
+For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/Hemalatha-Sathriyasekar/AI-Predictive-Methods-for-Credit-Underwriting/issues).
