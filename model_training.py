@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load the dataset
-file_path = 'credit_underwriting1.csv'  # Update the file path as needed
+file_path = "C:/Users/Hemalatha/Downloads/Credit_Underwriting_Dataset.csv"  # Update the file path as needed
 data = pd.read_csv(file_path)
 
 # Preprocessing
